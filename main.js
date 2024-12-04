@@ -1,5 +1,5 @@
  // Fecha objetivo: 12 de diciembre a las 22:00
- const targetDate = new Date("2024-12-07T21:30:00").getTime();
+ const targetDate = new Date("2024-12-07T21:45:00").getTime();
 
  // Actualiza el temporizador cada segundo
  const timer = setInterval(function() {
